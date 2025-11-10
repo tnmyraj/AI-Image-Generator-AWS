@@ -12,6 +12,10 @@ This project uses **AWS Bedrock**, **Lambda**, **API Gateway**, and **S3** to cr
 - Amazon S3
 - AWS API Gateway
 - Postman (for testing)
+## 🧩 Architecture
+Below is the system architecture used in this project:
+<img width="2831" height="994" alt="Blank diagram" src="https://github.com/user-attachments/assets/1c956a8b-8edb-4aa8-bc48-b7fc45a01d46" />
+
 
 ### 🧠 Key Learning
 Explored serverless architecture and GenAI model integration on AWS.
